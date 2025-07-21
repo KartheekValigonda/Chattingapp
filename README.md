@@ -1,4 +1,4 @@
-# chatting
+# Simple Chatting App
 
 A chatting Flutter allpication.
 
